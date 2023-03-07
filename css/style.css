@@ -411,7 +411,7 @@ header.sticky{
     transform: scale(1.1);
 }
 
-.row:hover .layer{
+.row .layer{
     height: 100%;
 }
 
